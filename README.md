@@ -5,7 +5,7 @@ iloveyou
 ## 👤 ข้อมูลส่วนตัว (Profile)
 
 <div align="center">
-  <img src="http://110.78.30.115/files/importpicstd/01/69319010017.jpg" alt="My Profile Picture" width="150" height="150" style="border-radius: 50%;">
+  <img src="http://110.78.30.115/files/importpicstd/01/69319010017.jpg"/>
   
   ### [ฐิติพงศ์ ราชแพทยาคม]
   <p>นักศึกษาเทคโนโลยีสารสนเทศ | Web Developer Enthusiast</p>
